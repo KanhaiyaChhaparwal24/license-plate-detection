@@ -49,8 +49,6 @@ cd license-plate-detection
 pip install -r requirements.txt
 ```
 
-3. Make sure the Tesseract OCR executable is available in the OCR folder or update the path in the code.
-
 ## Usage
 
 ### Command Line Interface
