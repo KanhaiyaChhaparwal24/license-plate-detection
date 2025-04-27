@@ -1,0 +1,7 @@
+{
+  "model_name": "microsoft/trocr-base-printed",
+  "fine_tuned": false,
+  "training_samples": 0,
+  "validation_samples": 0,
+  "license_plate_optimized": true
+}

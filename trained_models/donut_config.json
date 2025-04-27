@@ -1,0 +1,5 @@
+{
+  "license_plate_optimized": true,
+  "confidence_threshold": 0.5,
+  "use_gpu": false
+}

@@ -1,0 +1,6 @@
+{
+  "license_plate_optimized": true,
+  "detection_confidence_threshold": 0.5,
+  "recognition_confidence_threshold": 0.7,
+  "use_gpu": false
+}

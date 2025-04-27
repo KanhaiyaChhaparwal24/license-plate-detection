@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-04-16 12:12:21",
+  "results": {
+    "tesseract": {
+      "success": true,
+      "config_path": "C:\\Users\\LENOVO\\Desktop\\Coding\\AI_Project\\trained_models\\license_plate.config"
+    },
+    "trocr": {
+      "success": true,
+      "config_path": "C:\\Users\\LENOVO\\Desktop\\Coding\\AI_Project\\trained_models\\trocr_config.json"
+    },
+    "paddleocr": {
+      "success": true,
+      "config_path": "C:\\Users\\LENOVO\\Desktop\\Coding\\AI_Project\\trained_models\\paddleocr_config.json"
+    },
+    "easyocr": {
+      "success": true,
+      "config_path": "C:\\Users\\LENOVO\\Desktop\\Coding\\AI_Project\\trained_models\\easyocr_config.json"
+    },
+    "yolo_crnn": {
+      "success": true,
+      "config_path": "C:\\Users\\LENOVO\\Desktop\\Coding\\AI_Project\\trained_models\\yolo_crnn_config.json"
+    },
+    "donut": {
+      "success": true,
+      "config_path": "C:\\Users\\LENOVO\\Desktop\\Coding\\AI_Project\\trained_models\\donut_config.json"
+    }
+  },
+  "training_time_seconds": 14.077435731887817
+}

@@ -1,0 +1,10 @@
+{
+  "lang_list": [
+    "en"
+  ],
+  "gpu": false,
+  "license_plate_optimized": true,
+  "detector": true,
+  "recognizer": true,
+  "verbose": false
+}

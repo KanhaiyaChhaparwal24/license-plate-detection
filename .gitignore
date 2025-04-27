@@ -1,0 +1,24 @@
+# Ignore specific folders
+/OCR/
+/OCR/**
+/__pycache__/
+
+# Python cache files
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
