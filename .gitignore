@@ -25,6 +25,5 @@ build/
 
 # Specific files to exclude
 report.docx
-project_report.pdf
 ~$report.docx
 ~WRL*.tmp
