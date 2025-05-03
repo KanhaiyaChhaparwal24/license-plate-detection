@@ -28,7 +28,7 @@ This project implements a license plate detection and recognition system that us
 - Pillow (PIL) for image handling
 
 ## Youtube Link
-<a href="www.youtube.com/watch?v=BYCZ38Xl1Ww&ab_channel=shadowX2406">Presentaion Video</a>
+<a href="[www.youtube.com/watch?v=BYCZ38Xl1Ww&ab_channel=shadowX2406](https://www.youtube.com/watch?v=BYCZ38Xl1Ww&ab_channel=shadowX2406)">Presentaion Video</a>
 
 ## Installation
 
