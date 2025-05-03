@@ -27,6 +27,9 @@ This project implements a license plate detection and recognition system that us
 - NumPy for numerical operations
 - Pillow (PIL) for image handling
 
+## Youtube Link
+<a href="www.youtube.com/watch?v=BYCZ38Xl1Ww&ab_channel=shadowX2406">Presentaion Video</a>
+
 ## Installation
 
 ### Prerequisites
@@ -101,9 +104,8 @@ Here's a visual walkthrough of the application:
 - `images/`: Contains example car images
 - `OCR/`: Contains Tesseract OCR executable and related files
 - `trained_models/`: Directory for custom trained models
-- `evaluation_results/`: Performance evaluation results
 - `train_models.py`: Script for training custom OCR models
-- `evaluate_models.py`: Script for evaluating model performance
+
 
 ## How It Works
 

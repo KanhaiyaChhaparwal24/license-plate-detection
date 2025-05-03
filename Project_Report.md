@@ -6,7 +6,7 @@
 - Divyaksh Chachan (Registration Number: U23AI124)
 - Harsh Kasundra (Registration Number: U23AI125)
 
-## 0. Abstract
+## Abstract
 
 This project presents a comprehensive system for license plate detection and recognition designed to enhance accuracy through a multi-model approach. The system integrates several state-of-the-art Optical Character Recognition (OCR) technologies—including Tesseract OCR, EasyOCR, PaddleOCR, and Microsoft's TrOCR—with traditional computer vision techniques to detect and recognize vehicle license plates from images with varying quality and capture conditions. Our approach employs a novel voting mechanism that combines the outputs from multiple OCR engines, significantly improving recognition accuracy compared to single-model approaches. The system first preprocesses input images using techniques like Gaussian blurring, Sobel filtering, and morphological operations to enhance license plate regions. It then applies contour detection and geometric analysis to identify potential license plate locations before feeding these regions to multiple OCR engines. The final recognition result is determined through a democratic voting process weighted by each model's confidence score. Experimental evaluations demonstrate that our system achieves over 92% accuracy on a diverse dataset of license plates from different regions, lighting conditions, and capturing angles. The implementation includes both a command-line interface and a graphical user interface to accommodate various user preferences. This multi-model voting approach offers a robust solution for real-world license plate recognition challenges, balancing computational efficiency with recognition accuracy.
 
