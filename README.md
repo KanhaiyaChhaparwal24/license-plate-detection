@@ -133,8 +133,8 @@ You can customize the system by:
 ## Contributors
 
 - **<a href="https://www.linkedin.com/in/kanhaiya-chhaparwal/">Kanhaiya Chhaparwal</a>**
-- **<a href="https://www.linkedin.com/in/AnujSule/">Anuj Sule</a>**
 - **<a href="https://www.linkedin.com/in/divyaksh-chachan/">Divyaksh Chachan</a>**
+- **<a href="https://www.linkedin.com/in/AnujSule/">Anuj Sule</a>**
 - **<a href="https://www.linkedin.com/in/harshkasundra/">Harsh Kasundra</a>**
 
 ## Acknowledgments
